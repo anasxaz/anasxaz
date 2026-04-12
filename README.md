@@ -1,14 +1,116 @@
-<h1 align="center">Hi 👋, I'm Anas BENAMARA</h1>
-<h3 align="center">A passionate fullstack developer from Morocco</h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdiZWQwNHU3eW80czM4eW42OGI5dWtnZmVjeGRhMnZ2djRpczRiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" alt="Coding GIF">
+<div align="center">
 
-- 🌱 I’m currently learning **JavaScript**
+# Anas BENAMARA
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anas benamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas benamara" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anasxaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anasxaz" height="30" width="40" /></a>
-</p>
+**Engineering Student @ ENSIAS · Full Stack | DevSecOps | Applied AI**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+*Data & Software Sciences — Rabat, Morocco*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-benamara-697191219)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasxaz)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anas.benamara7@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+2nd year engineering student at **ENSIAS** (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes), specializing in **Data & Software Sciences**.
+
+- 🏥 Built a **full hospital management system** (5 user roles, 30+ REST endpoints, real-time SSE) during my internship at Intelcom
+- 🔐 Designed a **DevSecOps pipeline** with 9 jobs and 7 security tools (SAST, SCA, DAST, Secret Scan, Container Scan)
+- 🧠 Applied **Deep Learning + RL** to neuropsychiatric disorder classification — **64.29% accuracy** on fMRI data (UCLA ds000030)
+- ⚙️ Currently in **Siemens C++ Modern training** (EDA Software Development) & preparing **HashiCorp Terraform Associate**
+
+---
+
+## 🛠️ Tech Stack
+
+### Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### DevSecOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1B2D55?style=flat-square&logo=semgrep&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=flat-square&logo=xgboost&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System — Intelcom
+> Full Stack internship project · React 19 + Spring Boot + MySQL + JWT/RBAC
+
+- 5 user modules · 30+ secured REST endpoints · Real-time SSE notifications
+- Auto PDF generation · Interactive stats dashboard (Recharts)
+- 3500+ lines of frontend code
+
+### 🔐 DevSecOps Pipeline — ENSIAS
+> GitHub Actions · 9 jobs · 7 security tools · Hospital Management System (MERN)
+
+- **SAST** (Semgrep) · **SCA** (npm audit) · **Secret Scan** (Gitleaks)
+- **Container Scan** (Trivy) · **DAST** (OWASP ZAP) · **Quality Gate** (SonarCloud)
+- 36 security tests · 68% coverage · -60% security issues after remediation
+
+### 🧠 Applied AI — Neuropsychiatric Classification
+> Deep Learning + ML + RL · UCLA fMRI Dataset (ds000030) · 272 subjects · ENSIAS
+
+- **4-class** classification : Control, Schizophrenia, Bipolar, ADHD
+- 3D CNN + ResNet 3D *from scratch* on raw fMRI volumes
+- Multimodal fusion (fMRI + phenotypic) → **64.29% accuracy**
+- Q-Learning agent for clinical decision-making · Streamlit deployment
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasxaz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasxaz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Engineering Degree** — Data & Software Sciences (D2S), ENSIAS Rabat *(2024 – Present)*
+- 📜 **Cisco CCNA 1** *(2026)*
+- 📜 **HashiCorp Terraform Associate** *(in preparation)*
+- ⚙️ **Siemens — Modern C++ for EDA Software Development** *(in progress)*
+
+---
+
+<div align="center">
+
+*Open to internship opportunities (June – August 2026) · Full Stack · DevSecOps · AI*
+
+</div>

@@ -87,12 +87,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasxaz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasxaz&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=anasxaz&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=anasxaz&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 

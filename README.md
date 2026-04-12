@@ -21,7 +21,6 @@
 - 🏥 Built a **full hospital management system** (5 user roles, 30+ REST endpoints, real-time SSE) during my internship at Intelcom
 - 🔐 Designed a **DevSecOps pipeline** with 9 jobs and 7 security tools (SAST, SCA, DAST, Secret Scan, Container Scan)
 - 🧠 Applied **Deep Learning + RL** to neuropsychiatric disorder classification — **64.29% accuracy** on fMRI data (UCLA ds000030)
-- ⚙️ Currently in **Siemens C++ Modern training** (EDA Software Development) & preparing **HashiCorp Terraform Associate**
 
 ---
 
@@ -44,7 +43,6 @@
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B2D55?style=flat-square&logo=semgrep&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -104,8 +102,6 @@
 
 - 🎓 **Engineering Degree** — Data & Software Sciences (D2S), ENSIAS Rabat *(2024 – Present)*
 - 📜 **Cisco CCNA 1** *(2026)*
-- 📜 **HashiCorp Terraform Associate** *(in preparation)*
-- ⚙️ **Siemens — Modern C++ for EDA Software Development** *(in progress)*
 
 ---
 

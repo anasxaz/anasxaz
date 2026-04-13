@@ -105,9 +105,11 @@
 - 📜 **Cisco CCNA 1** *(2026)*
 
 ---
-
+<!--
 <div align="center">
 
 *Open to internship opportunities (June – August 2026) · Full Stack · DevSecOps · AI*
 
 </div>
+
+-->

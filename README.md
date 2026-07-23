@@ -103,6 +103,7 @@
 
 - 🎓 **Engineering Degree** — Data & Software Sciences (D2S), ENSIAS Rabat *(2024 – Present)*
 - 📜 **Cisco CCNA 1** *(2026)*
+- 📜 **Problem Solving (Basic) - HackerRank** *(2026)*
 
 
 

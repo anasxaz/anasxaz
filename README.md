@@ -4,7 +4,7 @@
 
 **Engineering Student @ ENSIAS · Full Stack | DevSecOps | Applied AI**
 
-*Data & Software Sciences — Rabat, Morocco*
+*Software & Data Sciences — Rabat, Morocco*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-benamara-697191219)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasxaz)
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-3rd year engineering student at **ENSIAS** (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes), specializing in **Data & Software Sciences**.
+3rd year engineering student at **ENSIAS** (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes), specializing in **Software & Data Sciences**.
 
 - 🏥 Built a **full hospital management system** (5 user roles, 30+ REST endpoints, real-time SSE) during my internship at Intelcom
 - 🔐 Designed a **DevSecOps pipeline** with 9 jobs and 7 security tools (SAST, SCA, DAST, Secret Scan, Container Scan)

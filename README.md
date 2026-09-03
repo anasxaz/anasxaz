@@ -2,7 +2,7 @@
 
 # Anas BENAMARA
 
-**Engineering Student @ ENSIAS · Full Stack | DevSecOps | Applied AI**
+**Engineering Student @ ENSIAS · Full Stack | DevSecOps | Applied AI | Salesforce**
 
 *Software & Data Sciences — Rabat, Morocco*
 
@@ -21,6 +21,7 @@
 - 🏥 Built a **full hospital management system** (5 user roles, 30+ REST endpoints, real-time SSE) during my internship at Intelcom
 - 🔐 Designed a **DevSecOps pipeline** with 9 jobs and 7 security tools (SAST, SCA, DAST, Secret Scan, Container Scan)
 - 🧠 Applied **Deep Learning + RL** to neuropsychiatric disorder classification — **64.29% accuracy** on fMRI data (UCLA ds000030)
+- ☁️ **Salesforce Developer Intern @ D&A Technologies** — delivered Apex/LWC modules for a client in the French Energy Savings Certificates (CEE) sector
 
 ---
 
@@ -44,6 +45,12 @@
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 
+### Salesforce
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798c1?style=flat-square&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Trailhead](https://img.shields.io/badge/Trailhead-F2842F?style=flat-square&logo=trailhead&logoColor=white)
+
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -62,6 +69,13 @@
 ---
 
 ## 🚀 Featured Projects
+
+### ☁️ Salesforce Developer Internship — D&A Technologies
+> 2-month internship · Casablanca · Client in French Energy Savings Certificates (CEE) sector
+
+- **Mission 1** — Account cloning feature with business rule validation and automated Chatter notifications (Apex + Flow)
+- **Mission 2** — Client contract management module: custom data modeling, validation rules, Lightning UI (Path, quick actions, list views), LWC component with Apex controller, analytical dashboards and unit tests
+- Onboarding via D&A Trailmix (21 modules, ~35,400 points) — completed **28 Trailhead badges** (~39,000 points)
 
 ### 🏥 Hospital Management System — Intelcom
 > Full Stack internship project · React 19 + Spring Boot + MySQL + JWT/RBAC
@@ -104,16 +118,12 @@
 - 🎓 **Engineering Degree** — Data & Software Sciences (D2S), ENSIAS Rabat *(2024 – Present)*
 - 📜 **Cisco CCNA 1** *(2026)*
 - 📜 **Problem Solving (Basic) - HackerRank** *(2026)*
+- 🏅 **28 Salesforce Trailhead Badges** — ~39,000 points *(2026)*
 
-
-
-<!--
 ---
 
 <div align="center">
 
-*Open to internship opportunities (June – August 2026) · Full Stack · DevSecOps · AI*
+*Open to PFE internship opportunities (6 months, starting February 2027) · Full Stack · DevSecOps · AI · Salesforce*
 
 </div>
-
--->
